@@ -1,6 +1,6 @@
 # Heeelloo Welcome to my profile.
 
-[![Моя гитхаб стата.](https://github-readme-stats.vercel.app/api?username=RenslyTheDragon&count_private=true)](https://github.com/RenslyTheDragon/github-readme-stats)
+[![Rensly.](https://github-readme-stats.vercel.app/api?username=Rensly&count_private=true)](https://github.com/Rensly/github-readme-stats)
 
 > EliteGDPS: https://furrix.xyz/egdps <br>
 > DestinyLabs: https://discord.gg/knsKewVEge
