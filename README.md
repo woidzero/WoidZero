@@ -2,5 +2,5 @@
 
 ![reRensly's GitHub stats](https://github-readme-stats.vercel.app/api?username=reRensly&show_icons=true)
 
-> EliteGDPS: https://furrix.xyz/egdps <br>
+> NGFU: https://github.com/reRensly/NGFU <br>
 > DestinyLabs: https://discord.gg/knsKewVEge
