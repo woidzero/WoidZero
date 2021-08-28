@@ -1,6 +1,6 @@
 # Heeelloo Welcome to my profile.
 
-[![reRensly.](https://github-readme-stats.vercel.app/api?username=reRensly&count_private=true)](https://github.com/reRensly/github-readme-stats)
+![reRensly's GitHub stats](https://github-readme-stats.vercel.app/api?username=reRensly&show_icons=true)
 
 > EliteGDPS: https://furrix.xyz/egdps <br>
 > DestinyLabs: https://discord.gg/knsKewVEge
