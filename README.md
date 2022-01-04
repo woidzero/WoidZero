@@ -1,5 +1,5 @@
-# yo
-(im not furry, please)
+# Welcome.
+Im programmer on PHP, Python, JS, C# & UI, GFX Designer.
 
-![stats](https://github-readme-stats.vercel.app/api?username=WoidZero&theme=dark&show_icons=true&custom_title=Stats)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WoidZero&theme=dark&custom_title=Languages&layout=compact)
+(im not furry)
