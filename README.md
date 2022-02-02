@@ -7,11 +7,11 @@ Im programmer on PHP, Python, JS, C# & UI, GFX Designer.
 ```cs
 --------------------------------
 
-       OS  :  Windows 10
- Website   :  https://woidzero.xyz/
-Languages  :  Python, JS, C#, Rust
-  Discord  :  itz-woidzero#9368
- Telegram  :  @woidzero
+       OS         :  Windows 10
+       Website    :  https://woidzero.xyz/
+       Languages  :  Python, JS, C#, Rust
+       Discord    :  itz-woidzero#9368
+       Telegram   :  @woidzero
  
  --------------------------------
 ```
