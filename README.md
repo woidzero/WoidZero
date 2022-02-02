@@ -9,7 +9,7 @@
     Languages  :  Python, JS, C#, Rust
     Discord    :  itz-woidzero#9368
     Telegram   :  @woidzero
-    Vkontakte  :  @woidzero
+    Vk         :  @woidzero
     Furry      :  No.
  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
