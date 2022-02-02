@@ -8,10 +8,12 @@ Im programmer on PHP, Python, JS, C# & UI, GFX Designer.
 --------------------------------
 
        OS         :  Windows 10
-       Website    :  https://woidzero.xyz/
+       Website    :  woidzero.xyz
        Languages  :  Python, JS, C#, Rust
        Discord    :  itz-woidzero#9368
        Telegram   :  @woidzero
+       VK         :  @woidzero
+       Furry      :  No.
  
  --------------------------------
 ```
