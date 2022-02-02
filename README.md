@@ -5,10 +5,9 @@
 ```yaml
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    OS         :  Windows 10
     Website    :  woidzero.xyz
     Languages  :  Python, JS, C#, Rust
-    Discord    :  `itz-woidzero#9368`
+    Discord    :  itz-woidzero#9368
     Telegram   :  @woidzero
     Vkontakte  :  @woidzero
     Furry      :  No.
