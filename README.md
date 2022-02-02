@@ -18,4 +18,4 @@ Im programmer on PHP, Python, JS, C# & UI, GFX Designer.
  --------------------------------
 ```
 
-<img align="left" src="https://api.woidzero.xyz/_icons/outlined/web.png" alt="icon.png" width="50" /> 
+<img align="left" src="https://api.woidzero.xyz/_icons/outlined/logos/discord.png" alt="discord.png" width="30" /> **Discord Server**: https://discord.gg/hH6GA4kmu8
