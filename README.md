@@ -1,8 +1,7 @@
-# Welcome.
+# Welcome
 Im programmer on PHP, Python, JS, C# & UI, GFX Designer.
 
-
-<img align="left" src="https://avatars.githubusercontent.com/u/71274141?v=4" alt="logo.png" width="200" /> 
+<img align="left" src="https://avatars.githubusercontent.com/u/71274141?v=4" alt="logo.png" width="190" /> 
 
 ```cs
 --------------------------------
@@ -17,5 +16,3 @@ Im programmer on PHP, Python, JS, C# & UI, GFX Designer.
  
  --------------------------------
 ```
-
-<img align="left" src="https://api.woidzero.xyz/_icons/outlined/logos/discord.png" alt="discord.png" width="20" />**Discord Server**: https://discord.gg/hH6GA4kmu8
