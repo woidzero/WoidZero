@@ -7,10 +7,9 @@
 
     Website    :  woidzero.xyz
     Languages  :  Python, PHP, C#, Rust
-    Discord    :  -- woidzero#9368
+    Discord    :  woidzero кто не понял#9368
     Telegram   :  @woidzero
     Vk         :  @woidzero
-    Furry      :  No.
  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
