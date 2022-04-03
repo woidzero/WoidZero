@@ -6,8 +6,8 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     Website    :  woidzero.xyz
-    Languages  :  Python, PHP, C#, Rust
-    Discord    :  woidzero кто не понял#9368
+    Languages  :  Python, PHP, C#, Web
+    Discord    :  × WoidZero#9368
     Telegram   :  @woidzero
     Vk         :  @woidzero
  
