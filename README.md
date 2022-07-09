@@ -5,7 +5,7 @@
 
     Website    :  woidzero.xyz
     Languages  :  Python, PHP, C#, Web
-    Discord    :  WoidZero#9368
+    Discord    :  woidzero#9368
     Telegram   :  @woidzero
     Vk         :  @woidzero
  
