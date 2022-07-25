@@ -1,10 +1,10 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/71274141?v=4" alt="logo.png" width="210" /> 
 
-```md
+```yml
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     Website    :  woidzero.xyz
-    Languages  :  Python, PHP, C#, Web
+    Languages  :  Python, PHP, C#
     Discord    :  woidzero#9368
     Telegram   :  @woidzero
  
