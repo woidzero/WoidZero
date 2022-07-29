@@ -5,10 +5,10 @@
 
     Distribution :  ZorinOS
     Website      :  woidzero.xyz
-    Languages    :  Python, PHP, C#
+    Languages    :  Python, PHP, C#, Rust, HTML & CSS
     Discord      :  woidzero#9368
     Telegram     :  @woidzero
-    Revolt       :   @woidzero
+    Revolt       :  @woidzero
    
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
