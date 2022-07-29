@@ -3,10 +3,12 @@
 ```yml
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    Website    :  woidzero.xyz
-    Languages  :  Python, PHP, C#
-    Discord    :  woidzero#9368
-    Telegram   :  @woidzero
- 
+    Distribution :  ZorinOS
+    Website      :  woidzero.xyz
+    Languages    :  Python, PHP, C#
+    Discord      :  woidzero#9368
+    Telegram     :  @woidzero
+    Revolt       :   @woidzero
+   
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
